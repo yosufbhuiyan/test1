@@ -1,0 +1,52 @@
+*{
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+body{
+    padding: 0px;
+    margin: 0px;
+    display: flex;
+}
+
+.navber{}
+
+.container{}
+
+.logo{}
+
+.logo h1{}
+
+nav{}
+
+nav ul{}
+
+nav ul li[]
+
+nav ul li a{}
+
+
+
+/* Responsive site */
+
+
+@media screen and (max-width:688px) {
+    body{
+        background-color: aqua;
+    }
+    
+}
+
+@media screen and (max-width:993px)  and (min-width:689px){
+    body{
+        background-color: rgb(240, 11, 11);
+    }
+    
+}
+
+@media screen and (max-width:1312px)  and (min-width:993px){
+    body{
+        background-color: rgb(0, 219, 66);
+    }
+    
+}
